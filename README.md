@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh Andrie Maralit</h1>
 <h3 align="center">A passionate Web Developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oreostillcare&label=Profile%20views&color=0e75b6&style=flat" alt="oreostillcare" /> </p>
 
 - 🔭 I’m currently working on [my personal project](https://oreostillcare.github.io/PROJECT-1/)
 
@@ -30,3 +29,4 @@
 
 ![snake gif](https://github.com/oreostillcare/oreostillcare/blob/output/github-snake-dark.svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oreostillcare&label=Profile%20views&color=0e75b6&style=flat" alt="oreostillcare" /> </p>
