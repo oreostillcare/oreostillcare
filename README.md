@@ -2,7 +2,7 @@
 🔭 I’m currently working on Personal Website<br><br>🌱 I’m currently learning  HTML, JS, CSS, ReactJS, Nodejs, Tailwind CSS, MongoDb, SQL<br><br>👯 I’m looking to collaborate on  Web Developers<br><br>💬 Ask me about HTML, CSS, JS, Python<br><br>📫 How to reach me joshandriemaralit@gmail.com<br><br>⚡ Fun fact: I never skip gym in years.
 
 
-## 🌐 Socials:
+
 
 
 # 💻 Tech Stack:
