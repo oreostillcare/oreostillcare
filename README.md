@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oreostillcare&show_icons=true&locale=en" alt="oreostillcare" /></p>
 
 
+
+![snake gif](https://github.com/oreostillcare/oreostillcare/blob/output/github-snake-dark.svg)
+
