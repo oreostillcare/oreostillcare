@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [my personal project](https://oreostillcare.github.io/PROJECT-1/)
 
-- 🌱 I’m currently learning **HTML, JS, CSS, ReactJS, Nodejs, Tailwind CSS, MongoDb, SQL**
+- 🌱 I’m currently learning **HTML, JS, CSS, ReactJS, Nodejs, Tailwind CSS, MongoDb, SQL, Firebase**
 
 - 👯 I’m looking to collaborate on **junior developers**
 
