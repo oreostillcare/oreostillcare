@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Web Developer from Philippines</h3>
 
 
-- 🔭 I’m currently working on [my personal project](https://oreostillcare.github.io/PROJECT-1/)
+- 🔭 I’m currently working on [my personal project](https://oreostillcare.github.io/first-fullstack-project/landingpage/landing.html#)
 
 - 🌱 I’m currently learning **HTML, JS, CSS, ReactJS, Nodejs, Tailwind CSS, MongoDb, SQL, Firebase**
 
