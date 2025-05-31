@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [my personal project](https://oreostillcare.github.io/first-fullstack-project/landingpage/landing.html#)
 
-- 🌱 I’m currently learning ** MongoDb**
+- 🌱 I’m currently learning **MongoDb**
 
 - 👯 I’m looking to collaborate on **junior developers**
 
-- 💬 Ask me about *Web Development**
+- 💬 Ask me about Web Development
 
 - 📫 How to reach me **joshandriemaralit@gmail.com**
 
