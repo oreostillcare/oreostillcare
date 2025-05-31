@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **junior developers**
 
-- 💬 Ask me about **HTML, CSS, JS, Python, C++**
+- 💬 Ask me about *Web Development**
 
 - 📫 How to reach me **joshandriemaralit@gmail.com**
 
