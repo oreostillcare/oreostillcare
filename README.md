@@ -4,16 +4,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Josh Andrie Maralit</h1>
-<h3 align="center">A passionate Web Developer from Philippines</h3>
+<h3 align="center">A passionate DevOps Engineer from Philippines</h3>
 
 
 - 🔭 I’m currently working on [my personal project](https://oreostillcare.github.io/first-fullstack-project/landingpage/landing.html#)
 
-- 🌱 I’m currently learning **MongoDb**
+- 🌱 I’m currently learning **Scripting**
 
 - 👯 I’m looking to collaborate on **junior developers**
 
-- 💬 Ask me about Web Development
+- 💬 Ask me about Web Development, IoT, Servers, Homelabs
 
 - 📫 How to reach me **joshandriemaralit@gmail.com**
 
